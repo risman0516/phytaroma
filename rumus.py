@@ -21,6 +21,6 @@ def hitung_luas(menu, *args):
     elif menu == 3:
         return hitung_luas_lingkaran(*args)
     elif menu == 4:
-        return hitung_luas_belah_ketupat(*args)
+        return hitung_luas_Belah_Ketupat(*args)
     else:
         return "Menu tidak valid"
